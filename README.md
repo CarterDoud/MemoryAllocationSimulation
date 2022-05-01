@@ -8,6 +8,7 @@ In the linux terminal, go to the directory of the program and run the command "g
 
 ## Running the program
 Run the program using ./holes INPUTFILE
+
 INPUTFILE must be a properly formated file, it is required to run the program.
 ## Using the simulator
 
