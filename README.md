@@ -43,7 +43,7 @@ After one of the algorithms has run, all variables are reset for the next algori
 - first hole of appropriate size is chosen as worst fit
 - if a less optimal hole is found, that becomes the worst fit hole
 - adds process to worst fit hole
-- - if there isn't enough space, remove oldest process
+- if there isn't enough space, remove oldest process
 
 ### Next fit
 - starts at last inserted process, searches for a hole that fits
